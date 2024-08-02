@@ -1,0 +1,14 @@
+---
+title: "Hi. I'm Skyler. And I love bacteria."
+format:
+  html:
+    css: styles.css
+---
+
+![](headshot.png){fig-align="center" width="500"}
+
+Please have a look around the site for information about my experience, interests, and contact information. I love to talk about all things environmental biotechnology and accessible science.
+
+My pronouns are "he/him" 💜
+
+*I want to acknowledge with humility and gratitude that I live, work, and play on the traditional, ancestral, and unceded territories of the šxʷməθkʷəy̓əmaɁɬ təməxʷ (Musqueam), shíshálh swíya (Sechelt), and Skwxwú7mesh-ulh Temíx̱w (Squamish) peoples.*

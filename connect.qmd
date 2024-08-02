@@ -1,0 +1,19 @@
+---
+title: "Connect"
+echo: false
+---
+
+Feel free to reach out with questions about my work or ideas for collaboration.
+
+
+<button type="button" class="btn btn-primary" onclick="window.location.href='https://github.com/skylerbio';">
+  GitHub
+</button>
+
+<button type="button" class="btn btn-primary" onclick="window.location.href='https://www.linkedin.com/in/sefriedline/';">
+  LinkedIn
+</button>
+
+<button type="button" class="btn btn-primary" onclick="window.location.href='mailto:sefriedline@pm.me';">
+  Email
+</button>
